@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ResetPasswordPage/static/css/main.e6c13ad2.css",
+    "main.js": "/ResetPasswordPage/static/js/main.fcdaa5d1.js",
+    "static/js/453.4278c399.chunk.js": "/ResetPasswordPage/static/js/453.4278c399.chunk.js",
+    "index.html": "/ResetPasswordPage/index.html",
+    "main.e6c13ad2.css.map": "/ResetPasswordPage/static/css/main.e6c13ad2.css.map",
+    "main.fcdaa5d1.js.map": "/ResetPasswordPage/static/js/main.fcdaa5d1.js.map",
+    "453.4278c399.chunk.js.map": "/ResetPasswordPage/static/js/453.4278c399.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fcdaa5d1.js"
+  ]
+}
